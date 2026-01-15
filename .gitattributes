@@ -1,2 +1,0 @@
-*.nar filter=lfs diff=lfs merge=lfs -text
-deces.csv filter=lfs diff=lfs merge=lfs -text
